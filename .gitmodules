@@ -1,0 +1,3 @@
+[submodule "sentimentanalysis-fe"]
+	path = sentimentanalysis-fe
+	url = https://github.com/ashesh808/sentimentAnalysis.git
